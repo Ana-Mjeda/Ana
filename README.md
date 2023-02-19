@@ -7,7 +7,7 @@
 <h3 align="center">💬 Who am I?</h3>
 <h4 align="center">I always try to do things as well as possible and to minimize mistakes. Having found QA and researched the work tasks and abilities required by this position, I found myself completely. I learned that I am passionate about learning new things, with a strong focus on details and a person who is motivated to solve problems and "fix".</h4>
 
-<h3 align="center">Reach me on:</h3>
+<h3 align="center">🔎 Reach me on:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-mjeda-76b447109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-mjeda-76b447109/" height="30" width="40" /></a>
 </p>
